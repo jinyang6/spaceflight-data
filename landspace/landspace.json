@@ -9,32 +9,32 @@
       "height_m": 76.6,
       "diameter_m": 4.5,
       "mass_kg": 660000,
-      "costPerLaunch_usd": 59640000,
+      "costPerLaunch_usd": 6390000,
       "payloadToLEO_kg": 21300,
-      "costPerKgToLEO_usd": 2800,
+      "costPerKgToLEO_usd": 300,
       "reusableStages": 1,
       "operationalStatus": "planned",
       "image": "zhuque3.png",
       "costScaling": [
         {
           "launchNumber": 1,
-          "cost_usd": 59640000
+          "cost_usd": 6390000
         },
         {
           "launchNumber": 5,
-          "cost_usd": 40000000
+          "cost_usd": 5325000
         },
         {
           "launchNumber": 10,
-          "cost_usd": 35000000
+          "cost_usd": 4260000
         },
         {
           "launchNumber": 15,
-          "cost_usd": 30000000
+          "cost_usd": 3195000
         },
         {
           "launchNumber": 20,
-          "cost_usd": 25000000
+          "cost_usd": 2130000
         }
       ]
     }
