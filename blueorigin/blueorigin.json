@@ -10,7 +10,7 @@
       "diameter_m": 3.8,
       "mass_kg": 75000,
       "costPerLaunch_usd": 500000,
-      "payloadToLEO_kg": 0,
+      "payloadToLEO_t": 0.0,
       "costPerKgToLEO_usd": 0,
       "reusableStages": 1,
       "operationalStatus": "active",
@@ -46,7 +46,7 @@
       "diameter_m": 7,
       "mass_kg": null,
       "costPerLaunch_usd": 20000000,
-      "payloadToLEO_kg": 45000,
+      "payloadToLEO_t": 45.0,
       "costPerKgToLEO_usd": 444.44,
       "reusableStages": 1,
       "operationalStatus": "active",
@@ -58,19 +58,19 @@
         },
         {
           "launchNumber": 5,
-          "cost_usd": 20000000
+          "cost_usd": 18000000
         },
         {
           "launchNumber": 10,
-          "cost_usd": 20000000
+          "cost_usd": 16000000
         },
         {
           "launchNumber": 15,
-          "cost_usd": 20000000
+          "cost_usd": 14000000
         },
         {
           "launchNumber": 20,
-          "cost_usd": 20000000
+          "cost_usd": 12000000
         }
       ]
     }
