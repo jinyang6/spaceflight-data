@@ -19,6 +19,6 @@ The interactive 3D models used on the rocket detail pages are sourced from Sketc
 *   **Falcon 9:** ["Falcon 9 - SpaceX"](https://skfb.ly/6RIC9) by Stanley Creative is licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/).
 *   **Falcon Heavy:** ["SpaceX Falcon Heavy"](https://skfb.ly/o6zpZ) by AllThingsSpace is licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/).
 *   **Starship:** ["SpaceX Starship Ship S25 & Booster 9"](https://skfb.ly/oL9CU) by Clarence365 is licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/).
-*   **Rocketlab Neutron:** ["Rocketlab Neutron Rocket"](https://skfb.ly/oACvZ) by Clarence365 is licensed under [Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/).
+*   **Rocketlab Neutron:** ["Rocketlab Neutron Rocket"](https://skfb.ly/oACvZ) by Clarence365 is licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/).
 
 Models for other rockets (e.g., LandSpace, Blue Origin vehicles as per their data files) are placeholders or not yet available.
